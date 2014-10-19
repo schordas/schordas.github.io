@@ -44,7 +44,7 @@ header {
     text-align: center;
     color: #fff;
     /*background: #18bc9c;*/
-    background-image: url("img/photo.jpg");
+    background-image: url("photo.jpg");
     height: 100%;
     background-repeat: no-repeat;
     background-size: cover;
