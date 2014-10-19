@@ -44,7 +44,7 @@ header {
     text-align: center;
     color: #fff;
     /*background: #18bc9c;*/
-    background-image: url("../img/photo.jpg");
+    background-image: url("img/photo.jpg");
     height: 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -166,7 +166,7 @@ section.success {
 }
 
 .mobile-roadie .mobile-roadie-item {
-   text-align: center; 
+   text-align: center;
 }
 
 .mobile-roadie .mobile-roadie-item img{
@@ -180,7 +180,7 @@ section.success {
 }
 
 .northrop .northrop-description {
-   text-align: center; 
+   text-align: center;
    display: inline-block;
 }
 
@@ -220,7 +220,7 @@ section.success {
 }
 
 .asteroids{
-    height: 100%;    
+    height: 100%;
 }
 
 .asteroids .asteroids-description{
